@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Section.css';
 
 const styles = {
   footer: {
@@ -6,7 +7,7 @@ const styles = {
       bottom: 0,
       width: '100%',
       textAlign: 'center',
-      padding: 20,
+      padding: 15,
     },
     feet: {
       fontSize: '18rem',
@@ -21,7 +22,7 @@ const styles = {
 function Footer() {
 return (
   <div style={styles.footer}>
-    <div style={styles.feet}><a style={styles.feetLinks} href="https://github.com/Sav2234" target="_blank">Github</a></div>
+    <div style={styles.feet}></div>
   </div>
 );
 }

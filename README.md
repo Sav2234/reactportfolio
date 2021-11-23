@@ -6,7 +6,7 @@ This is my React portfolio for potential employers to see my work, qualification
 
 ## Usage
 
-Use this link to access my portfolio:
+download the repo files and in the console use npm start ro see the portfolio on http://localhost:3000/
 
 ## License
 

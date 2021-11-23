@@ -73,7 +73,8 @@ export default function Projects() {
             <div style={styles.card}>
                 <div style={styles.container}>
                     <h1 style={styles.title}>Password Generator</h1>
-                    <p><a href="https://github.com/Sav2234/E-Commerce-Back-End" target="_blank">Github repo</a></p>
+                    <p><a href="https://github.com/Sav2234/password_sys.git" target="_blank">Github repo</a></p>
+                    <p><a href="https://sav2234.github.io/password_sys/" target="_blank">Deployed App</a></p>
                 </div>
             </div>
 
@@ -87,7 +88,7 @@ export default function Projects() {
 
             <div style={styles.card}>
                 <div style={styles.container}>
-                    <h1>Readme Generator</h1>
+                    <h1 style={styles.title}>Readme Generator</h1>
                     <p><a href="https://github.com/Sav2234/readmegen" target="_blank">Github repo</a></p>
                 </div>
             </div>
